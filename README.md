@@ -5,7 +5,7 @@
 <!-- <img src="https://user-images.githubusercontent.com/73942023/144770972-17cb5203-9c0d-4c5c-adc3-af7a69bf68e1.gif"> -->
 <!-- <img src="https://user-images.githubusercontent.com/73942023/144771272-6ee5d22a-2002-4a40-819b-89ac0cc00080.gif"> -->  
 
-## </br>[현정이네 작고 소중한 코딩 맛집](https://satisfying-clover-588.notion.site/HTTO-bd9fb7b4381843298fe2af214adaeb64)
+## </br>[현또라네 작고 소중한 코딩 맛집](https://satisfying-clover-588.notion.site/HTTO-bd9fb7b4381843298fe2af214adaeb64)
 
 <img src = "https://mblogthumb-phinf.pstatic.net/MjAyMDA0MjJfMjkz/MDAxNTg3NTM0NDg4MjYy.Y1qtxZsZHFb7K0mUYCBSlYXDeeNrEvy5arabf1vzefMg.n6lCRbtVy_z5GqFe0vPGUjF_-NrycUUAK5wONEQwMJMg.GIF.yubini99/3.gif?type=w800">
 <br>
