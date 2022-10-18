@@ -2,13 +2,13 @@
 
 ### Hyeon Ttora Github😗
 
-<img align="_CV_Ghost" src="https://mblogthumb-phinf.pstatic.net/MjAyMjAzMjlfNTUg/MDAxNjQ4NTI5ODEwODIx.xWukCPySEDhQ-tMxrYURlgWs6FcHLCfOtxLq0oeuzWEg.0_pE83ii2DKBGxBq6EU4-RIKoPrlzj3KnYA1SpjW6tog.GIF.38qudehd/IMG_8681.GIF?type=w800" style="display: none; left: -10000px; top: -10000px; width: 540px; height: 336px;">
+<img src="https://mblogthumb-phinf.pstatic.net/MjAyMjAzMjlfNTUg/MDAxNjQ4NTI5ODEwODIx.xWukCPySEDhQ-tMxrYURlgWs6FcHLCfOtxLq0oeuzWEg.0_pE83ii2DKBGxBq6EU4-RIKoPrlzj3KnYA1SpjW6tog.GIF.38qudehd/IMG_8681.GIF?type=w800" style="display: none; left: -10000px; top: -10000px; width: 540px; height: 336px;">
 
 <br>
 
 </br>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=HyeonTtora&theme=dark&show_icons=true">  
+<img src="https://github-readme-stats.vercel.app/api?username=HyeonTtora&theme=dark&show_icons=true">  
 
 <br>
 
