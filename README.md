@@ -5,7 +5,7 @@
 <!-- <img src="https://user-images.githubusercontent.com/73942023/144770972-17cb5203-9c0d-4c5c-adc3-af7a69bf68e1.gif"> -->
 <!-- <img src="https://user-images.githubusercontent.com/73942023/144771272-6ee5d22a-2002-4a40-819b-89ac0cc00080.gif"> -->  
 
-## </br>[초보개발자 현또입니다 😀](https://hyeonttora.github.io/study_publisings/)
+## </br>[htto개발공부집 😀](https://hyeonttora.github.io/study_publisings/)
 
 <img src = "https://mblogthumb-phinf.pstatic.net/MjAyMDA0MjJfMjkz/MDAxNTg3NTM0NDg4MjYy.Y1qtxZsZHFb7K0mUYCBSlYXDeeNrEvy5arabf1vzefMg.n6lCRbtVy_z5GqFe0vPGUjF_-NrycUUAK5wONEQwMJMg.GIF.yubini99/3.gif?type=w800">
 <br>
